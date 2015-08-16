@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/damaya/danielamaya/www.danielamaya.com/blog/2015/03/08/when-linux-turns-to-turkeys'
+let g:netrw_dirhist_2='/home/damaya/danielamaya/www.despairbear.com/theme/css/fonts'
+let g:netrw_dirhist_3='/home/damaya/pegex-json-pm/lib/Pegex/JSON'
+let g:netrw_dirhist_4='/home/damaya/pegex-nginx/lib/Pegex/Nginx'
